@@ -1,0 +1,21 @@
+{
+  "name": "saurcelabsautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env TEST_ENV=uat npx playwright test ./tests/tests/E2E_tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "path": "^0.12.7"
+  }
+}
