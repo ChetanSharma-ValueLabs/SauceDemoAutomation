@@ -1,0 +1,8 @@
+{
+    "URL_EndPoint" : "/cart.html",
+    "Title_Text" : "Your Cart",
+    "Cart_X_Locator": 1203.33,
+    "Cart_Y_Locator": 10,
+    "ContinueBtn_X_Locator": 1045,
+    "ContinueBtn_Y_Locator": 410
+}

@@ -1,0 +1,10 @@
+{
+    "URL_EndPoint" : "/inventory.html",
+    "Header_Text" : "Swag Labs",
+    "Title_Text" : "Products",
+    "PageLoadThreshold" : 5000,
+    "Cart_X_Locator": 1203.33,
+    "Cart_Y_Locator": 10,
+    "addProductCount":3,
+    "removeProductCount":1
+}

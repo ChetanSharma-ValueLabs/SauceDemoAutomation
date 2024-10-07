@@ -1,0 +1,7 @@
+{
+    "URL_EndPoint" : "/checkout-step-one.html",
+    "Title_Text" : "Checkout: Your Information",
+    "FirstName" : "Test",
+    "LastName" : "User",
+    "PostalCode" : "0000"
+}

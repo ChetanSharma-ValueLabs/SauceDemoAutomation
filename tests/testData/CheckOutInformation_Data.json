@@ -1,0 +1,6 @@
+{
+    "URL_EndPoint" : "/checkout-step-two.html",
+    "Title_Text" : "Checkout: Overview",
+    "Payment_Test" : "SauceCard",
+    "Shipment_Test" : "Free Pony Express Delivery!"
+}
